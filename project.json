@@ -12,6 +12,9 @@
 
     "jsList" : [
         "src/resource.js",
-        "src/app.js"
+        "src/app.js",
+        "src/MainScene.js",
+        "src/BasePhysicsSprite.js",
+        "src/Hero.js"
     ]
 }
